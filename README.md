@@ -1,12 +1,13 @@
 # Asad Ullah Khan
 
-Building practical tools for designers, print production, and creative workflows.
+I'm a self-taught web developer building **AUK Systems**.
 
-Current focus:
+I started in freelance graphic design and UI/UX. Designing interfaces made me curious about the code behind them, so I started writing my own.
 
-- Adobe Illustrator utilities
-- Photoshop production tools
-- InDesign workflow automation
-- CorelDRAW tools and experiments
+What I enjoy most about programming is taking an idea, getting it to work, and figuring out how to make it better. Web development is my foundation. I'm also exploring automation, applied AI and intelligent systems through hands-on projects.
 
-Projects are added here as they become stable and ready to share.
+**"If I break it, I build it better."**
+
+**Creativity × Code × Intelligence**
+
+*Good ideas. Built to work.*
